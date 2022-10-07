@@ -1,6 +1,6 @@
 # Keyboard
 
-What makes a keyboard useful for you.
+What makes a keyboard useful to you.
 
 | ⌨️ | ✅ |
 | - | - |
