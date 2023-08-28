@@ -19,4 +19,4 @@ What makes a keyboard useful to you.
 ### Cleaning
 
 - tools
-- cups off
+- caps off
